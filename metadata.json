@@ -1,0 +1,6 @@
+{
+  "name": "Bazaar",
+  "description": "AI-Driven Market Linkage and Smart Cataloging App for Marginalized Artisans",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
